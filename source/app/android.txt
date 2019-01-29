@@ -1,0 +1,3 @@
+title=Baratino
+author=DiJei
+orientation=landscape
